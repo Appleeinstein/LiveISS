@@ -6,7 +6,8 @@
 
 # Live ISS
 
-Real-time ISS tracker app displaying current astronaut details and live location on a world map, built for HackOut.
+Real-time ISS tracker app displaying current astronaut details and live location on a world map.
+Built for HackOut '24.
 
 
 ## Technologies
